@@ -1,10 +1,10 @@
 # Configurations
-title:            "hwangseonu"
+title:            "Hwangseonu's Blog"
 longtitle:        "Hwangseonu's Blog"
 author:           hwangseonu
 email:            hwangseonu12@naver.com
 description: >
-  Hwangseonu's Blog
+  Hwangseonu의 잡다한 블로그
 
 version:          1.0
 gitbook_version:  3.2.3
