@@ -9,5 +9,5 @@
                 "twitter": false,
                 "vk": false,
                 "weibo": false,
-                "all": []"github", "telegram"]
+                "all": ["github", "telegram"]
             },
