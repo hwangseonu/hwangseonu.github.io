@@ -1,4 +1,10 @@
-# Hwangseonu's Blog
+---
+layout: home
+title: Hwangseonu's Blog
+permalink: /
+---
+
+## Profile
 ```json
 {
     "name": {
