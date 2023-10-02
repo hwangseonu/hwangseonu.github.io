@@ -25,7 +25,7 @@ permalink: /
 배우고 싶은 것이 많은 학생입니다.
 
 ## Stats
-[![Hwangseonu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwangseonu&show_icons=true&theme=radical)](https://github.com/hwangseonu)
+[![Hwangseonu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwangseonu&show_icons=true&theme=codeSTACKr)](https://github.com/hwangseonu)
 
 ## Projects
 
