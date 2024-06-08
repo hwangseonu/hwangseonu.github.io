@@ -1,12 +1,3 @@
----
-title: 3. Go언어의 타입시스템
-author: hwangseonu
-date: 2024-06-04
-layout: post
-category: go
-tags: ["go", "programming"]
----
-
 ### 기본 타입
 
 Go 에는 기본적으로  
